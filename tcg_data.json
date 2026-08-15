@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-15T19:52:48.735Z",
+    "generated_at": "2026-08-15T20:08:29.376Z",
     "scrape_date": "2026-08-16",
     "source_scope": "Sneaker Dunk sales-history API | GitHub Actions automatic source updater",
     "favorites_url": "https://snkrdunk.com/accounts/favorites",
@@ -22361,7 +22361,7 @@
       "product_url": "https://snkrdunk.com/apparels/676006",
       "brand_group": "One Piece",
       "condition": "PSA10",
-      "sold_date_raw": "11時間前",
+      "sold_date_raw": "12時間前",
       "sold_date": "2026-08-16",
       "price_jpy": 180000,
       "source_url": "https://snkrdunk.com/apparels/676006/sales-histories?slide=right",
@@ -22375,7 +22375,7 @@
       "product_url": "https://snkrdunk.com/apparels/676006",
       "brand_group": "One Piece",
       "condition": "PSA10",
-      "sold_date_raw": "11時間前",
+      "sold_date_raw": "12時間前",
       "sold_date": "2026-08-16",
       "price_jpy": 177000,
       "source_url": "https://snkrdunk.com/apparels/676006/sales-histories?slide=right",
