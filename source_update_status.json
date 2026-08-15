@@ -1,11 +1,11 @@
 {
   "status": "completed",
-  "started_at": "2026-08-15T10:12:27.886Z",
-  "finished_at": "2026-08-15T10:12:57.170Z",
-  "updated_at": "2026-08-15T10:12:57.170Z",
+  "started_at": "2026-08-15T10:39:28.961Z",
+  "finished_at": "2026-08-15T10:40:06.019Z",
+  "updated_at": "2026-08-15T10:40:06.019Z",
   "products_checked": 50,
   "source_sales_rows": 1872,
-  "added_sales_rows": 9,
-  "cumulative_sales_rows": 23360,
+  "added_sales_rows": 8,
+  "cumulative_sales_rows": 23368,
   "errors": []
 }
