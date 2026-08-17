@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-17T11:35:52.779Z",
+    "generated_at": "2026-08-17T11:55:45.096Z",
     "scrape_date": "2026-08-17",
     "source_scope": "Sneaker Dunk sales-history API | GitHub Actions automatic source updater",
     "favorites_url": "https://snkrdunk.com/accounts/favorites",
@@ -19141,8 +19141,8 @@
       "product_url": "https://snkrdunk.com/apparels/635880",
       "brand_group": "One Piece",
       "condition": "PSA10",
-      "sold_date_raw": "2日前",
-      "sold_date": "2026-08-14",
+      "sold_date_raw": "3日前",
+      "sold_date": "2026-08-13",
       "price_jpy": 55000,
       "source_url": "https://snkrdunk.com/apparels/635880/sales-histories?slide=right",
       "product_name_ja": "ロロノア・ゾロ SR [ST21-015](プロモーションカード「フラッグシップバトル ベスト8記念品」)",
@@ -25763,7 +25763,7 @@
       "product_url": "https://snkrdunk.com/apparels/93519",
       "brand_group": "One Piece",
       "condition": "PSA10",
-      "sold_date_raw": "1時間前",
+      "sold_date_raw": "2時間前",
       "sold_date": "2026-08-17",
       "price_jpy": 73800,
       "source_url": "https://snkrdunk.com/apparels/93519/sales-histories?slide=right",
